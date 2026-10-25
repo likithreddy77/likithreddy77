@@ -145,20 +145,6 @@ CNN + MobileNet pipeline for 4-class land-cover classification (cloudy, desert, 
 </tr>
 </table>
 
-<br/>
-
-## GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=likithreddy77&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=likithreddy77&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="165"/>
-</div>
-
-<div align="center">
-<img src="https://streak-stats.demolab.com/?user=likithreddy77&theme=default&hide_border=true" alt="GitHub Streak"/>
-</div>
-
-<br/>
 
 <div align="center">
 
